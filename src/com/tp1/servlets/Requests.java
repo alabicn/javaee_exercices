@@ -33,7 +33,7 @@ public class Requests extends HttpServlet {
         out.println("<title>doPost</title>");
         out.println("</head>");
         out.println("<body>");
-        out.println("<p>doPost</p>");
+        out.println("<p>doPosts</p>");
         out.println("</body>");
         out.println("</html>");
 	}
